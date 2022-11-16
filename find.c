@@ -155,3 +155,4 @@ void fork_cmd(info_t *info)
 				print_error(info, "Permission denied\n");
 		}
 	}
+}
